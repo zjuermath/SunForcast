@@ -1,0 +1,8 @@
+joblib==1.3.2
+matplotlib==3.8.2
+numpy==1.26.3
+pandas==2.1.4
+sampen==0.0.17
+scikit_learn==1.3.2
+tensorflow
+vmdpy
